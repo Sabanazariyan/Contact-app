@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { v4 } from "uuid";
 
-import ContactsList from "./contactsList";
+import ContactsList from "./ContactsList.jsx";
 import inputs from "../constants/inputs.js";
 
 import styles from "./Contacts.module.css";
